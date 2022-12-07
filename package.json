@@ -1,0 +1,14 @@
+{
+  "name": "welles32620",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ufac4 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufac4 เว็บเดิมพันออนไลน์ ยูฟ่าเบท คาสิโนเว็บใหญ่ น่าเชื่อถือ100%",
+  "keywords": [
+    "ufac4 Pantip เว็บไซต์ที่มีความน่าเชื่อถือ [Play168] ⭐ ufac4 เว็บเดิมพันออนไลน์ ยูฟ่าเบท คาสิโนเว็บใหญ่ น่าเชื่อถือ100%"
+  ],
+  "repository": "https://github.com/yorkinyellow/welles32620",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
